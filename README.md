@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/kattavignesh/personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/kattavignesh/personal-portfolio?style=social)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+A fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 
 ## Installing Personal-Portfolio
